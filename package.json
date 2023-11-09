@@ -73,7 +73,7 @@
     "@types/sinon": "~4.1.2",
     "benchmark": "^1.0.0",
     "bootstrap": "^3.3.7",
-    "chromedriver": "2.40.0",
+    "chromedriver": "119.0.1",
     "cldr-data": "36.0.0",
     "codecov": "~3.0.4",
     "cpx": "~1.5.0",
