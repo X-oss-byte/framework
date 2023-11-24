@@ -41,7 +41,7 @@
   },
   "homepage": "https://github.com/dojo/framework#readme",
   "dependencies": {
-    "@types/cldrjs": "0.4.20",
+    "@types/cldrjs": "0.4.27",
     "@types/globalize": "0.0.34",
     "@webcomponents/webcomponentsjs": "2.5.0",
     "cldr-core": "36.0.0",
